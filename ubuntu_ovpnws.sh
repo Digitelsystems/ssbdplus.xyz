@@ -1,10 +1,10 @@
 #!/bin/bash
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
-HOST='173.82.65.242';
-USER='ssbdplus_ssbdplus';
-PASS='digi##0550013763';
-DBNAME='ssbdplus_ssbdplus';
+HOST='66.45.248.110';
+USER='digitelp_ssbdplus';
+PASS='ME2HE2Di@';
+DBNAME='digitelp_ssbdplus';
 
 install_require()
 {
